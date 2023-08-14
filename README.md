@@ -1,4 +1,4 @@
-# # Dreamforce 23 - Adopt Package Based Development with Org-Dependent Packaging
+# Dreamforce 23 - Adopt Package Based Development with Org-Dependent Packaging
 
 Repository for the org-dependent package demonstrated in my Dreamforce 23 theatre session.
 The package contains references to metadata that doesn't exist in this repository, but it package versions can still be created. 
